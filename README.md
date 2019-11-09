@@ -1,3 +1,0 @@
-# elecciones
-
-dou dou
