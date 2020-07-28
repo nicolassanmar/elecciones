@@ -13,7 +13,7 @@ function draw() {
   // The first parameter is the x-coordinate and the second is the Y
   stroke(255);
   point(width * 0.5, height * 0.5);
-  point(width * 0.5, height * 0.25);
+  point(width * 0.5, height * 0.25);// pn
 
   // Coordinates are used for drawing all shapes, not just points.
   // Parameters for different functions are used for different
