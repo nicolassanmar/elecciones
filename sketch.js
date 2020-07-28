@@ -2,7 +2,7 @@ function setup() {
   // Sets the screen to be 720 pixels wide and 400 pixels high
   createCanvas(720, 400);
 }
-
+//negfr0
 function draw() {
   // Set the background to black and turn off the fill color
   background(0);
